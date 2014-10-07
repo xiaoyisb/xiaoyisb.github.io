@@ -236,6 +236,7 @@ body {
   line-height: 0;
   position: relative;
   vertical-align: baseline;
+  text-align: center;
 }
 .article-entry sup {
   top: -0.5em;
@@ -503,6 +504,7 @@ body {
 }
 .article-header {
   padding: 20px 20px 0;
+  text-align: center;
 }
 .article-title {
   text-decoration: none;
