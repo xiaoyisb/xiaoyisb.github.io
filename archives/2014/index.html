@@ -59,7 +59,11 @@
       </div>
     </div>
   </div>
-</header>
+</header><span id="hitokoto"></span>
+<script type="text/javascript">
+function hitokoto(d){jQuery("#hitokoto").stop().fadeOut(function (){jQuery("#hitokoto").html("<a target='_blank' title='分享者：" + d.author + "&#10;来源：" + d.source + "&#10;' href='http://hitokoto.us/view/" + d.id + "'>『" + d.hitokoto + "』</a>");jQuery("#hitokoto").stop().fadeIn();});}
+    function genHitokoto(){var cats = ['a', 'b', 'c', 'd'], script = document.createElement('script');script.type = 'text/javascript';script.id = 'hitokotoko_js';script.src = "http://api.hitokoto.us/rand?uid=2442" + cats[Math.floor(Math.random()*cats.length)] + "&encode=jsc&charset=utf-8";jQuery("#hitokoto").append(script);};setInterval(genHitokoto, 10000);genHitokoto();
+</script>
       <div class="outer">
         <section id="main">
   
@@ -180,12 +184,9 @@
       &copy; 2014 木喵<br>
       Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
     </div>
-  </div><span id="hitokoto"></span>
+  </div>
 </footer>					
-<script type="text/javascript">
-function hitokoto(d){jQuery("#hitokoto").stop().fadeOut(function (){jQuery("#hitokoto").html("<a target='_blank' title='分享者：" + d.author + "&#10;来源：" + d.source + "&#10;' href='http://hitokoto.us/view/" + d.id + "'>『" + d.hitokoto + "』</a>");jQuery("#hitokoto").stop().fadeIn();});}
-    function genHitokoto(){var cats = ['a', 'b', 'c', 'd'], script = document.createElement('script');script.type = 'text/javascript';script.id = 'hitokotoko_js';script.src = "http://api.hitokoto.us/rand?uid=2442" + cats[Math.floor(Math.random()*cats.length)] + "&encode=jsc&charset=utf-8";jQuery("#hitokoto").append(script);};setInterval(genHitokoto, 10000);genHitokoto();
-</script>
+
     </div>
     <nav id="mobile-nav">
   
