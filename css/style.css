@@ -473,15 +473,15 @@ body {
   color: #777;
 }
 #hitokoto {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
   color: #545454;
   text-align: center;
-  height: 16px;
-  line-height: 16px;
+  height: 20px;
+  line-height: 20px;
   margin: -70px;
   overflow: hidden;
-  text-shadow: #ccc 1px 1px 1px;
+  text-shadow: #c6c6c6 1px 1px 1px;
   padding: 0 145px 0;
 }
 #hitokoto a {

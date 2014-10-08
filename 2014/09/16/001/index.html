@@ -78,8 +78,8 @@
         <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><input type="submit" value="&#xF002;" class="search-form-submit"><input type="hidden" name="q" value="site:http://mumiao.ml"></form>
       </div>
     </div>
-  </div>
-</header><span id="hitokoto"></span>
+  </div><p id="hitokoto">
+</header>
 <script type="text/javascript">
 function hitokoto(d){jQuery("#hitokoto").stop().fadeOut(function (){jQuery("#hitokoto").html("<a target='_blank' title='分享者：" + d.author + "&#10;来源：" + d.source + "&#10;' href='http://hitokoto.us/view/" + d.id + "'>『" + d.hitokoto + "』</a>");jQuery("#hitokoto").stop().fadeIn();});}
     function genHitokoto(){var cats = ['a', 'b', 'c', 'd'], script = document.createElement('script');script.type = 'text/javascript';script.id = 'hitokotoko_js';script.src = "http://api.hitokoto.us/rand?uid=2442" + cats[Math.floor(Math.random()*cats.length)] + "&encode=jsc&charset=utf-8";jQuery("#hitokoto").append(script);};setInterval(genHitokoto, 10000);genHitokoto();
