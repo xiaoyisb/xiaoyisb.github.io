@@ -334,7 +334,7 @@ body {
   text-decoration: none;
   color: #fff;
   font-weight: 300;
-  text-shadow: 0 1px 6px #565656;
+  text-shadow: 0 1px 4px #565656;
 }
 #logo {
   font-size: 0px;
@@ -356,7 +356,7 @@ body {
 .nav-icon,
 .main-nav-link {
   float: left;
-  color: #414141;
+  color: #292929;
   opacity: 0.6;
   text-decoration: none;
   text-shadow: 0 1px rgba(0,0,0,0.2);
