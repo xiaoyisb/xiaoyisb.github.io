@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://xiaoyisb.com/"/>
-  <updated>2014-10-17T12:52:29.979Z</updated>
+  <updated>2014-10-17T15:40:50.262Z</updated>
   <id>http://xiaoyisb.com/</id>
   
   <author>
@@ -15,33 +15,37 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://xiaoyisb.com/2014/10/17/hello-world/"/>
-    <id>http://xiaoyisb.com/2014/10/17/hello-world/</id>
-    <published>2014-10-17T12:11:31.000Z</published>
-    <updated>2014-10-10T14:31:45.000Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2>
-<h3 id="Create_a_new_post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <title><![CDATA[气球飞走是后悔，带来的是新的开始]]></title>
+    <link href="http://xiaoyisb.com/2014/10/17/xiaoyi/"/>
+    <id>http://xiaoyisb.com/2014/10/17/xiaoyi/</id>
+    <published>2014-10-17T13:17:57.000Z</published>
+    <updated>2014-10-17T14:40:51.000Z</updated>
+    <content type="html"><![CDATA[<p>对面常常放一些老歌听着听着眼睛出汗了</p>
+<p><img src="http://p3.wmpic.me/article/2014/08/27/1409101658_WtVIxknp.jpg" alt=""></p>
+<p>若孤单是毒那我早已中毒匪浅</p>
+<p><img src="http://p3.wmpic.me/article/2014/08/27/1409101658_LKLodnbn.jpg" alt=""></p>
+<p>难免会做错难免会错过难免会被伤毕竟我没有被爱</p>
+<p><img src="http://p3.wmpic.me/article/2014/08/27/1409101658_cfPNxYBa.jpg" alt=""></p>
+<p>我会想念你可是你忘了吗我们才刚刚遇见</p>
+<p><img src="http://p3.wmpic.me/article/2014/08/27/1409101658_miTlkkLD.jpg" alt=""></p>
+<p>世界实际上很小，你的内心其实很大.</p>
+<p><img src="http://p3.wmpic.me/article/2014/08/27/1409101658_TFHoSIWr.jpg" alt=""></p>
+<p>厌倦了你的我如今要学着慢慢放手。</p>
+<p><img src="http://p3.wmpic.me/article/2014/08/27/1409101658_hOWqRTfe.jpg" alt=""></p>
+<p>别到处嚷嚷世界抛弃了你，世界原本就不是属于你</p>
+<p><img src="http://p3.wmpic.me/article/2014/08/27/1409101658_zMPmZNKq.jpg" alt=""></p>
+<p>谁说用真心就能换取双方相同感情</p>
+<p><img src="http://p1.wmpic.me/article/2014/08/27/1409101659_QAZoZvPr.jpg" alt=""></p>
+<p>原来你的想念那么泛滥可以毫不保留的给任何一个人</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    <![CDATA[<p>对面常常放一些老歌听着听着眼睛出汗了</p>
+<p><img src="http://p3.wmpic.me/article/2014/08/27/1409101658_WtVIxknp.jpg" alt=""></p>
+<p>若孤单是毒那我早已中毒匪浅</p>
+<p><i]]>
     </summary>
+    
+      <category term="Hexo" scheme="http://xiaoyisb.com/tags/Hexo/"/>
     
   </entry>
   
